@@ -1,3 +1,8 @@
+VEŘEJNÝ WEB: https://kato-cpu-tech.github.io/apartment-preview/
+
+Toto je publikační výběr souborů pro web. Skripty a podrobné kontroly
+popsané níže jsou součástí úplného místního projektu apartment-family-v2.zip.
+
 RODINNÝ BYT – TESTOVACÍ VARIANTA 02
 
 Otevření webu
