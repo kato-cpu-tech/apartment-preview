@@ -23,4 +23,4 @@ document.getElementById('modal-prev').addEventListener('click',()=>advance(-1));
 dialog.addEventListener('keydown',e=>{if(e.key==='ArrowRight'){e.preventDefault();advance(1);}if(e.key==='ArrowLeft'){e.preventDefault();advance(-1);}});
 dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close();});
 const loadModel=document.getElementById('load-model'),frame=document.getElementById('model-frame');
-loadModel.addEventListener('click',()=>{if(!frame.src)frame.src='viewer.html';frame.hidden=false;loadModel.hidden=true;document.getElementById('model-helper').textContent='Tažením otáčíte. V seznamu lze vybrat stejné kamery jako v galerii. Strop lze skrýt.';});
+loadModel.addEventListener('click',()=>{if(!frame.src)frame.src='viewer.html?v=77f25a52bd67';frame.hidden=false;loadModel.hidden=true;document.getElementById('model-helper').textContent='Tažením otáčíte. V seznamu lze vybrat stejné kamery jako v galerii. Strop lze skrýt.';});
