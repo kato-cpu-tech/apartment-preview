@@ -1,1 +1,1 @@
-16 pohledů ze stejné Blender scény. JPEG pro web, PNG v plném rozlišení 1600 × 1100.
+Galerie V3: 16 generovaných interiérů podle referencí a původních modelových záběrů. Nativní PNG a webové JPEG mají 1512 × 1040 px. Vana je vestavěná s obloženým čelem.
