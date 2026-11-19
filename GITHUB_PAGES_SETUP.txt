@@ -1,0 +1,14 @@
+Publikační balíček pro GitHub Pages.
+
+Účet: kato-cpu-tech
+Samostatný repozitář: apartment-preview
+
+1. Nahrajte obsah této složky do kořene repozitáře.
+2. V Settings > Pages zvolte publikaci z větve main a složky / (root).
+3. Soubor .nojekyll zajistí přímé servírování statických souborů.
+4. Po dokončení nasazení použijte adresu zobrazenou GitHub Pages.
+
+Běžný GitHub Pages web je veřejný. Balíček zahrnuje 3D model, půdorys a vizualizace; před zveřejněním je nutný souhlas s tímto rozsahem.
+GitHub Free umožňuje Pages z veřejného repozitáře. Soukromý zdrojový repozitář vyžaduje odpovídající placený plán; sám o sobě nezaručuje neveřejný web.
+
+Soubory běží bez Blenderu na serveru, bez instalace balíčků a bez serveru na počítači návštěvníka. Model a fotografie jsou totožné s dokončeným projektem V2.

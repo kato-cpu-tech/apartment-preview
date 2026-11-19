@@ -1,0 +1,652 @@
+{
+  "schema_version": 1,
+  "layout_id": "family-reference-layout-v1",
+  "source": "reference/floorplan.jpg",
+  "policy": "Keep architectural geometry identical to P01. Furniture locations follow raster where visible; dimensions and appearance are test assumptions. Keep these placements across style variants.",
+  "style_brief": "Modern calm family home for two adults and two children; light oak, warm white, muted sage and clay, tactile fabrics, rounded furniture.",
+  "items": [
+    {
+      "id": "F_R01_WARDROBE",
+      "room_id": "R01",
+      "kind": "wardrobe",
+      "bounds_m": [
+        3.48958333,
+        2.1875,
+        6.19791667,
+        2.70833333
+      ],
+      "source_rect_px": [
+        205,
+        260,
+        309,
+        280
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "height_m": 2.43,
+      "front": "north",
+      "finish": "ivory"
+    },
+    {
+      "id": "F_R02_BED",
+      "room_id": "R02",
+      "kind": "bed",
+      "bounds_m": [
+        0.28645833,
+        3.984375,
+        2.29166667,
+        5.75520833
+      ],
+      "source_rect_px": [
+        82,
+        143,
+        159,
+        211
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "head": "west",
+      "bed_type": "double",
+      "accent": "sage"
+    },
+    {
+      "id": "F_R02_WARDROBE",
+      "room_id": "R02",
+      "kind": "wardrobe",
+      "bounds_m": [
+        0.28645833,
+        2.1875,
+        3.17708333,
+        2.70833333
+      ],
+      "source_rect_px": [
+        82,
+        260,
+        193,
+        280
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "height_m": 2.43,
+      "front": "north",
+      "finish": "ivory"
+    },
+    {
+      "id": "F_R03_TUB",
+      "room_id": "R03",
+      "kind": "bathtub",
+      "bounds_m": [
+        3.48958333,
+        6.22395833,
+        5.15625,
+        6.92708333
+      ],
+      "source_rect_px": [
+        205,
+        98,
+        269,
+        125
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference"
+    },
+    {
+      "id": "F_R03_TOILET",
+      "room_id": "R03",
+      "kind": "toilet",
+      "bounds_m": [
+        4.53125,
+        5.52083333,
+        5.18229167,
+        6.04166667
+      ],
+      "source_rect_px": [
+        245,
+        132,
+        270,
+        152
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "west"
+    },
+    {
+      "id": "F_R03_VANITY",
+      "room_id": "R03",
+      "kind": "vanity",
+      "bounds_m": [
+        4.66145833,
+        4.765625,
+        5.18229167,
+        5.36458333
+      ],
+      "source_rect_px": [
+        250,
+        158,
+        270,
+        181
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "west",
+      "height_m": 0.86
+    },
+    {
+      "id": "F_R03_WASHER",
+      "room_id": "R03",
+      "kind": "washer",
+      "bounds_m": [
+        4.55729167,
+        3.984375,
+        5.18229167,
+        4.58333333
+      ],
+      "source_rect_px": [
+        246,
+        188,
+        270,
+        211
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "west"
+    },
+    {
+      "id": "F_R04_BED",
+      "room_id": "R04",
+      "kind": "bed",
+      "bounds_m": [
+        7.60416667,
+        3.984375,
+        8.4375,
+        5.91145833
+      ],
+      "source_rect_px": [
+        363,
+        137,
+        395,
+        211
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "head": "south",
+      "bed_type": "single",
+      "accent": "sage"
+    },
+    {
+      "id": "F_R04_WARDROBE",
+      "room_id": "R04",
+      "kind": "wardrobe",
+      "bounds_m": [
+        5.59895833,
+        3.984375,
+        6.14583333,
+        6.22395833
+      ],
+      "source_rect_px": [
+        286,
+        125,
+        307,
+        211
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "height_m": 2.43,
+      "front": "east",
+      "finish": "sage"
+    },
+    {
+      "id": "F_R04_DESK",
+      "room_id": "R04",
+      "kind": "desk",
+      "bounds_m": [
+        7.109375,
+        6.43229167,
+        8.41145833,
+        6.953125
+      ],
+      "source_rect_px": [
+        344,
+        97,
+        394,
+        117
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "south"
+    },
+    {
+      "id": "F_R04_CHAIR",
+      "room_id": "R04",
+      "kind": "desk_chair",
+      "bounds_m": [
+        7.36979167,
+        5.96354167,
+        7.78645833,
+        6.38020833
+      ],
+      "source_rect_px": [
+        354,
+        119,
+        370,
+        135
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "north"
+    },
+    {
+      "id": "F_R05_BED",
+      "room_id": "R05",
+      "kind": "bed",
+      "bounds_m": [
+        8.69791667,
+        3.984375,
+        9.53125,
+        5.91145833
+      ],
+      "source_rect_px": [
+        405,
+        137,
+        437,
+        211
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "head": "south",
+      "bed_type": "single",
+      "accent": "clay"
+    },
+    {
+      "id": "F_R05_WARDROBE",
+      "room_id": "R05",
+      "kind": "wardrobe",
+      "bounds_m": [
+        10.96354167,
+        3.984375,
+        11.51041667,
+        6.22395833
+      ],
+      "source_rect_px": [
+        492,
+        125,
+        513,
+        211
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "height_m": 2.43,
+      "front": "west",
+      "finish": "clay"
+    },
+    {
+      "id": "F_R05_DESK",
+      "room_id": "R05",
+      "kind": "desk",
+      "bounds_m": [
+        9.63541667,
+        6.43229167,
+        11.484375,
+        6.953125
+      ],
+      "source_rect_px": [
+        441,
+        97,
+        512,
+        117
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "south"
+    },
+    {
+      "id": "F_R05_CHAIR",
+      "room_id": "R05",
+      "kind": "desk_chair",
+      "bounds_m": [
+        10.46875,
+        5.96354167,
+        10.88541667,
+        6.38020833
+      ],
+      "source_rect_px": [
+        473,
+        119,
+        489,
+        135
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "north"
+    },
+    {
+      "id": "F_R06_KITCHEN",
+      "room_id": "R06",
+      "kind": "kitchen",
+      "bounds_m": [
+        11.84895833,
+        0.3125,
+        16.84895833,
+        0.96354167
+      ],
+      "source_rect_px": [
+        526,
+        327,
+        718,
+        352
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "north",
+      "sink_x_px": 566,
+      "hob_x_px": 636,
+      "fridge_px": [
+        695,
+        327,
+        718,
+        352
+      ]
+    },
+    {
+      "id": "F_R06_SOFA",
+      "room_id": "R06",
+      "kind": "sofa_l",
+      "bounds_m": [
+        12.55208333,
+        5.3125,
+        15.10416667,
+        6.69270833
+      ],
+      "source_rect_px": [
+        553,
+        107,
+        651,
+        160
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "south",
+      "chaise": "east"
+    },
+    {
+      "id": "F_R06_COFFEE",
+      "room_id": "R06",
+      "kind": "coffee_table",
+      "bounds_m": [
+        12.63020833,
+        4.63541667,
+        13.59375,
+        5.10416667
+      ],
+      "source_rect_px": [
+        556,
+        168,
+        593,
+        186
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference"
+    },
+    {
+      "id": "F_R06_TV",
+      "room_id": "R06",
+      "kind": "tv_console",
+      "bounds_m": [
+        11.84895833,
+        4.73958333,
+        12.1875,
+        5.9375
+      ],
+      "source_rect_px": [
+        526,
+        136,
+        539,
+        182
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "east"
+    },
+    {
+      "id": "F_R06_DINING",
+      "room_id": "R06",
+      "kind": "dining_table",
+      "bounds_m": [
+        12.83854167,
+        2.52604167,
+        14.58333333,
+        3.359375
+      ],
+      "source_rect_px": [
+        564,
+        235,
+        631,
+        267
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference"
+    },
+    {
+      "id": "F_R06_DINING_CHAIR_01",
+      "room_id": "R06",
+      "kind": "dining_chair",
+      "bounds_m": [
+        12.96875,
+        3.46354167,
+        13.41145833,
+        3.85416667
+      ],
+      "source_rect_px": [
+        569,
+        216,
+        586,
+        231
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "south"
+    },
+    {
+      "id": "F_R06_DINING_CHAIR_02",
+      "room_id": "R06",
+      "kind": "dining_chair",
+      "bounds_m": [
+        13.984375,
+        3.46354167,
+        14.42708333,
+        3.85416667
+      ],
+      "source_rect_px": [
+        608,
+        216,
+        625,
+        231
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "south"
+    },
+    {
+      "id": "F_R06_DINING_CHAIR_03",
+      "room_id": "R06",
+      "kind": "dining_chair",
+      "bounds_m": [
+        12.96875,
+        2.00520833,
+        13.41145833,
+        2.39583333
+      ],
+      "source_rect_px": [
+        569,
+        272,
+        586,
+        287
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "north"
+    },
+    {
+      "id": "F_R06_DINING_CHAIR_04",
+      "room_id": "R06",
+      "kind": "dining_chair",
+      "bounds_m": [
+        13.984375,
+        2.00520833,
+        14.42708333,
+        2.39583333
+      ],
+      "source_rect_px": [
+        608,
+        272,
+        625,
+        287
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "north"
+    },
+    {
+      "id": "F_R06_DINING_CHAIR_05",
+      "room_id": "R06",
+      "kind": "dining_chair",
+      "bounds_m": [
+        12.31770833,
+        2.734375,
+        12.734375,
+        3.17708333
+      ],
+      "source_rect_px": [
+        544,
+        242,
+        560,
+        259
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "east"
+    },
+    {
+      "id": "F_R06_DINING_CHAIR_06",
+      "room_id": "R06",
+      "kind": "dining_chair",
+      "bounds_m": [
+        14.6875,
+        2.734375,
+        15.10416667,
+        3.17708333
+      ],
+      "source_rect_px": [
+        635,
+        242,
+        651,
+        259
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "west"
+    },
+    {
+      "id": "F_R07_TOILET",
+      "room_id": "R07",
+      "kind": "toilet",
+      "bounds_m": [
+        10.859375,
+        0.49479167,
+        11.35416667,
+        1.14583333
+      ],
+      "source_rect_px": [
+        488,
+        320,
+        507,
+        345
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "north"
+    },
+    {
+      "id": "F_R07_SINK",
+      "room_id": "R07",
+      "kind": "vanity",
+      "bounds_m": [
+        10.625,
+        1.38020833,
+        10.88541667,
+        1.796875
+      ],
+      "source_rect_px": [
+        479,
+        295,
+        489,
+        311
+      ],
+      "placement_source": "Approximate trace of furniture in reference/floorplan.jpg",
+      "placement_status": "test_layout_from_reference",
+      "front": "east",
+      "height_m": 0.84,
+      "compact": true
+    },
+    {
+      "id": "F_R08_TABLE",
+      "room_id": "R08",
+      "kind": "outdoor_table",
+      "bounds_m": [
+        16.14583333,
+        3.33333333,
+        16.84895833,
+        3.88020833
+      ],
+      "source_rect_px": [
+        691,
+        215,
+        718,
+        236
+      ],
+      "placement_source": "Added test furnishing; terrace furniture not drawn in reference",
+      "placement_status": "test_layout_from_reference"
+    },
+    {
+      "id": "F_R08_CHAIR_01",
+      "room_id": "R08",
+      "kind": "outdoor_chair",
+      "bounds_m": [
+        16.27604167,
+        4.01041667,
+        16.69270833,
+        4.42708333
+      ],
+      "source_rect_px": [
+        696,
+        194,
+        712,
+        210
+      ],
+      "placement_source": "Added test furnishing; not fixed by reference",
+      "placement_status": "test_layout_from_reference",
+      "front": "south"
+    },
+    {
+      "id": "F_R08_CHAIR_02",
+      "room_id": "R08",
+      "kind": "outdoor_chair",
+      "bounds_m": [
+        16.27604167,
+        2.8125,
+        16.69270833,
+        3.22916667
+      ],
+      "source_rect_px": [
+        696,
+        240,
+        712,
+        256
+      ],
+      "placement_source": "Added test furnishing; not fixed by reference",
+      "placement_status": "test_layout_from_reference",
+      "front": "north"
+    }
+  ],
+  "decor_policy": "Rugs, lights, art, textiles and small accessories are stylistic additions, not evidence from the reference."
+}
