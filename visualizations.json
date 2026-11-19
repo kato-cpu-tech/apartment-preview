@@ -1,0 +1,271 @@
+{
+  "version": "photoreal-v3",
+  "status": "complete_asset_set",
+  "approved_style_reference": [
+    "CAM_R06_A",
+    "CAM_R06_B"
+  ],
+  "views": [
+    {
+      "camera_id": "CAM_R01_A",
+      "room_id": "R01",
+      "view_id": "A",
+      "resolution_px": [
+        1513,
+        1040
+      ],
+      "png": "renders_family/CAM_R01_A.png",
+      "jpg": "renders_family/CAM_R01_A.jpg",
+      "png_sha256": "2f4b6ed94ebe3458cfec3bd175d1920e696ede7f44269b6f03b2c5a71341cd50",
+      "jpg_sha256": "e9a615166ebbc429125a04b88d568a4f2067e1fdf7bfe9eb01937c232b1177c1",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    },
+    {
+      "camera_id": "CAM_R01_B",
+      "room_id": "R01",
+      "view_id": "B",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R01_B.png",
+      "jpg": "renders_family/CAM_R01_B.jpg",
+      "png_sha256": "1bf42d2ed8b8aa39e949c45c970dddf0f5c2eeb22119f91bcf78d15ad180c2c4",
+      "jpg_sha256": "4feadba937df487b867bd33f62b626c1e7292d946bb3b2ce29a09d4e0dad60ac",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    },
+    {
+      "camera_id": "CAM_R02_A",
+      "room_id": "R02",
+      "view_id": "A",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R02_A.png",
+      "jpg": "renders_family/CAM_R02_A.jpg",
+      "png_sha256": "34ddd8234cfbacd6c1ffcb2fa50933901bc6f5619fc99ed8d82b794b703e9c91",
+      "jpg_sha256": "f13a21b051a11bebe96be879acb199528aebcfcadf1006444ca2f2d6c188613e",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    },
+    {
+      "camera_id": "CAM_R02_B",
+      "room_id": "R02",
+      "view_id": "B",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R02_B.png",
+      "jpg": "renders_family/CAM_R02_B.jpg",
+      "png_sha256": "fe85dea216c32bd953211ff9f673325464a44517f88a237654d33790b8193f6c",
+      "jpg_sha256": "b455fc541f386cab1dcb85225d5861e83670adbb70e2cc80ca3d02995424d53a",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    },
+    {
+      "camera_id": "CAM_R03_A",
+      "room_id": "R03",
+      "view_id": "A",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R03_A.png",
+      "jpg": "renders_family/CAM_R03_A.jpg",
+      "png_sha256": "abd497faa65a3b749d6965c2379deaa25b0d3b19e52ed8086ba71d13e5c653f6",
+      "jpg_sha256": "52ba9da5196f3f29abec4f9c2981c9900684b2062a91b96fd485070efc04d0b7",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": true
+    },
+    {
+      "camera_id": "CAM_R03_B",
+      "room_id": "R03",
+      "view_id": "B",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R03_B.png",
+      "jpg": "renders_family/CAM_R03_B.jpg",
+      "png_sha256": "dfd26de28ff18de878ce8a6868454976ec615b03596e2b9b2d035a328a2dccf1",
+      "jpg_sha256": "b304db0c38f860cf94ef0090635dec5db34fb4ddb5554855bc31386f9f7480f6",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    },
+    {
+      "camera_id": "CAM_R04_A",
+      "room_id": "R04",
+      "view_id": "A",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R04_A.png",
+      "jpg": "renders_family/CAM_R04_A.jpg",
+      "png_sha256": "b21b75a57c52aa9c86082ade76f6e26e8a4b3af598d19e2a509a7746e0ce6b76",
+      "jpg_sha256": "4df989066e1b5009165417a016ff10e1212d786d2926157bc1faa2164e55e6d8",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    },
+    {
+      "camera_id": "CAM_R04_B",
+      "room_id": "R04",
+      "view_id": "B",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R04_B.png",
+      "jpg": "renders_family/CAM_R04_B.jpg",
+      "png_sha256": "d3d9fa02c3e5685d834fec7ee9d62d9e48b937549f20c8c3024f1348ceb6b7f7",
+      "jpg_sha256": "83403a445af5ec0147bdf30633936a4f71b9934a979fa0b7320e451ed6a37073",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    },
+    {
+      "camera_id": "CAM_R05_A",
+      "room_id": "R05",
+      "view_id": "A",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R05_A.png",
+      "jpg": "renders_family/CAM_R05_A.jpg",
+      "png_sha256": "b025af4c5dfdbef701ba3acc5c12433c701af578be915493a5c69fb65efcfbe8",
+      "jpg_sha256": "58915f16455fc418e2dabb3b543f32a097a5f4ce38f653ad133c9c5fd3ced536",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    },
+    {
+      "camera_id": "CAM_R05_B",
+      "room_id": "R05",
+      "view_id": "B",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R05_B.png",
+      "jpg": "renders_family/CAM_R05_B.jpg",
+      "png_sha256": "e01fc1b44e2417c1061a550076738f0a9d1affa5d6b19bdd0dbc862b722eb23c",
+      "jpg_sha256": "6037376c832f7bbf6a06a8f7f8d54ca488ae38d25dda2c0cad680a89cca754a9",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    },
+    {
+      "camera_id": "CAM_R06_A",
+      "room_id": "R06",
+      "view_id": "A",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R06_A.png",
+      "jpg": "renders_family/CAM_R06_A.jpg",
+      "png_sha256": "c9d981aa62bc307640becee1bc2068a69411eeba7e598dfb960de35dcea9b7d8",
+      "jpg_sha256": "6f00000a12e40fc53c0dedaefce13802519dd937b4139b6c1227c601cd27c752",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    },
+    {
+      "camera_id": "CAM_R06_B",
+      "room_id": "R06",
+      "view_id": "B",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R06_B.png",
+      "jpg": "renders_family/CAM_R06_B.jpg",
+      "png_sha256": "519d79d43bf14aaed28bd036d5d1a3c92704fd4a4747676c618596ff43b2c957",
+      "jpg_sha256": "4330840599277215804c815c0439f73295755d8233998af8c54f0bfa058fc30c",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    },
+    {
+      "camera_id": "CAM_R07_A",
+      "room_id": "R07",
+      "view_id": "A",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R07_A.png",
+      "jpg": "renders_family/CAM_R07_A.jpg",
+      "png_sha256": "dc24eaff8de3a57d2c11bb2875ce2f3d377f479c72a637c8a2019a9494113e1b",
+      "jpg_sha256": "f0f0ae1cc886aee5ab5af097664344c416c4020de056c5f5abaea056ff1d37fb",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    },
+    {
+      "camera_id": "CAM_R07_B",
+      "room_id": "R07",
+      "view_id": "B",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R07_B.png",
+      "jpg": "renders_family/CAM_R07_B.jpg",
+      "png_sha256": "a36e0b7c2f974b1583bbab6ff9a5b2eeefba804b0f472be884a9c7e6bea80d59",
+      "jpg_sha256": "ddf6552ab2c29ae56ee0a4e583a527622e87179d796654a3c73799541cee86a9",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    },
+    {
+      "camera_id": "CAM_R08_A",
+      "room_id": "R08",
+      "view_id": "A",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R08_A.png",
+      "jpg": "renders_family/CAM_R08_A.jpg",
+      "png_sha256": "594dfa5d32980b1d517aa611ff4b010d6e555080f33f98af36ffe638402f9d43",
+      "jpg_sha256": "0b7f5aa719054ccf74ea0e6f535e7981eafaad230e9d813950fe26a81a19de4c",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    },
+    {
+      "camera_id": "CAM_R08_B",
+      "room_id": "R08",
+      "view_id": "B",
+      "resolution_px": [
+        1512,
+        1040
+      ],
+      "png": "renders_family/CAM_R08_B.png",
+      "jpg": "renders_family/CAM_R08_B.jpg",
+      "png_sha256": "b74a931eedd56279398445c40f083607071d356a218e3bd1b45710fed524e16d",
+      "jpg_sha256": "0c05655b191347d09c1bf3e57711df882557d85fc417b0b7e62b9b02009e450c",
+      "method": "image_gen reference transfer",
+      "visually_reviewed": true,
+      "bathtub_correction": false
+    }
+  ],
+  "generated_detail_not_dimension_proof": true,
+  "architecture_and_cameras_model_unchanged": true,
+  "external_assets_downloaded": false,
+  "runway_used": false,
+  "blender_executed": false
+}

@@ -1,6 +1,6 @@
 <!doctype html><html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Podklady a kontrola – byt P01</title>
 <style>body{font:16px/1.55 system-ui,sans-serif;max-width:1200px;margin:30px auto;padding:0 22px;color:#25352c;background:#fafbf7}h1{font-size:28px}h2{font-size:21px;margin-top:32px}table{border-collapse:collapse;width:100%;font-size:14px;margin:16px 0}td,th{border-bottom:1px solid #d1d7d0;text-align:left;padding:9px;vertical-align:top}th{background:#eaf0e7}code{background:#e8eee4;padding:2px 4px}img{max-width:100%;height:auto}a{color:#234c35}@media print{body{font-size:11px}table{font-size:10px}h2{break-after:avoid}tr{break-inside:avoid}}</style></head><body>
-<h1>Byt P01 · podklady, předpoklady a kontrola</h1>
+<h1>Byt P01 · podklady, předpoklady a kontrola</h1><p><strong>Aktualizace galerie V3:</strong> Aktuální interiéry jsou generované z fotografických referencí do původních záběrů. Původní Blender model a kamery zůstaly zachovány jako rozměrový podklad. Vana je nově vestavěná s obloženým čelem. Obrázky mají přibližně 1512 × 1040 px a nejsou rozměrovým důkazem.</p>
 <p><strong>Skutečný 3D model glTF a OBJ byl sestaven a numericky zkontrolován Pythonem 3.9.6 bez instalace balíčků. Stavební základ zůstává předběžný a neschválený.</strong></p>
 <p><strong>Aktualizace V2:</strong> Blender 5.3.0 je dostupný. Skutečný soubor apartment.blend byl sestaven a ověřen. Zařízení a 16 konečných vizualizací vznikly ze stejné scény přes Cycles. Číselné rozměry a nejistoty původního podkladu níže zůstávají v platnosti.</p>
 <h2>Rozlišení důkazů</h2>
@@ -28,6 +28,6 @@
 <p>Lineární numerická tolerance je 0,00001 m. Ta slouží pro porovnání parametrů a uložené sítě; nevyjadřuje přesnost stavby či rastru. Pro objemy je tolerance 1e-5 relativně, nejméně 1e-5 m³, kvůli převodu do float32. Interiérové PNG jsou jednoduché neutrální CPU projekce trojúhelníkové sítě, ne fotorealistické rendery.</p>
 <h2>Výstupy a další postup</h2>
 <p><a href="viewer.html">Otevřít 3D náhled</a> · <a href="views/control_plan.svg">Kontrolní půdorys</a> · <a href="views/reference_overlay.svg">Překrytí předlohy</a> · <a href="checks/geometry_report_portable.csv">Měřené hodnoty CSV</a> · <a href="README_FAMILY.txt">Návod</a></p>
-<img src="renders_family/CAM_R06_A.jpg" alt="Aktuální vizualizace obývacího pokoje ze stejného modelu">
+<img src="renders_family/CAM_R06_A.jpg?v=6f00000a12e4" alt="Aktuální generovaný návrh obývacího pokoje podle modelového pohledu">
 <p>Před potvrzením jsou potřeba: kótovaný originál nebo ověřená délka X i Y; tloušťky stěn a údaje o dutině; výšky a šířky otvorů, parapety a fotografie; podrobnosti terasy, zábradlí a definice ploch. Do té doby se žádný snímek nesmí označovat za potvrzený stavební základ.</p>
 </body></html>
